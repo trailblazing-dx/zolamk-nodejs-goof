@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "express": "4.12.4",
     "express-session": "^1.17.2",
     "hbs": "^4.0.4",
     "jquery": "^2.2.4",
