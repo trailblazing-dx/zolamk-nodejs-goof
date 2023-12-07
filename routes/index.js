@@ -19,21 +19,6 @@ var fs = require('fs');
 // prototype-pollution
 var _ = require('lodash');
 
-exports.index = function (req, res, next) {
-  Todo.
-    find({}).
-    sort('-updated_at').
-    exec(function (err, todos) {
-      if (err) return next(err);
-
-      res.render('index', {
-        title: 'Patch TODO List',
-        subhead: 'Vulnerabilities at their best',
-        todos: todos,
-      });
-    });
-};
-
 exports.loginHandler = function (req, res, next) {
   if (validator.isEmail(req.body.username)) {
     User.find({ username: req.body.username, password: req.body.password }, function (err, users) {
