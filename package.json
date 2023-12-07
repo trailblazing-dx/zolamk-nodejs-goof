@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "mongoose": "4.2.4",
     "morgan": "latest",
     "npmconf": "0.0.24",
     "optional": "^0.1.3",
