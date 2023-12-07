@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "morgan": "latest",
     "npmconf": "0.0.24",
     "optional": "^0.1.3",
     "st": "0.2.4",
