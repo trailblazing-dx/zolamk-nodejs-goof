@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "validator": "^13.5.2",
     "replace": "^1.2.0",
     "request": "^2.88.2",
     "sanitize-filename": "^1.6.3",
