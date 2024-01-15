@@ -14,6 +14,11 @@ var User = new Schema({
   password: String,
 });
 
+new Schema({
+  username: "username",
+  password: "supersecretpassword"
+})
+
 mongoose.model('User', User);
 
 // CloudFoundry env vars
