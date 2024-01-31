@@ -16,7 +16,8 @@
   },
   "dependencies": {
     "a": "b",
-    "c": "d"
+    "c": "d",
+    "e": "f"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
