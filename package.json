@@ -18,7 +18,8 @@
     "a": "b",
     "c": "d",
     "e": "f",
-    "g": "h"
+    "g": "h",
+    "i": "j"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
