@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "adm-zip": "0.4.7",
-    "typeorm": "^0.2.24",
     "validator": "^13.5.2"
   },
   "devDependencies": {
