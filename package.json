@@ -15,7 +15,8 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "a": "b"
+    "a": "b",
+    "c": "d"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
