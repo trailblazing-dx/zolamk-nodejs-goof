@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "ejs": "1.0.0",
     "ejs-locals": "1.0.2",
     "errorhandler": "1.2.0",
     "file-type": "^8.1.0",
