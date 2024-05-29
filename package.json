@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "dustjs-linkedin": "2.5.0",
     "ejs-locals": "1.0.2",
     "express": "4.12.4",
     "express-fileupload": "0.0.5",
