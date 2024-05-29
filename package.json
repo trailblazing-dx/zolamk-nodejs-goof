@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "ms": "^0.7.1",
     "mysql": "^2.18.1",
     "npmconf": "0.0.24",
     "optional": "^0.1.3",
