@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "method-override": "latest",
     "mongoose": "4.2.4",
     "ms": "^0.7.1",
     "mysql": "^2.18.1",
