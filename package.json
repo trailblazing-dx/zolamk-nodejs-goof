@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "mysql": "^2.18.1",
     "npmconf": "0.0.24",
     "st": "0.2.4",
     "stream-buffers": "^3.0.1",
