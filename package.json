@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "ejs-locals": "1.0.2",
     "express-fileupload": "0.0.5",
     "express-session": "^1.17.2",
     "file-type": "^8.1.0",
