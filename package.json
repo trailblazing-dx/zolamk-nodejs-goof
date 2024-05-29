@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "express-fileupload": "0.0.5",
     "express-session": "^1.17.2",
     "hbs": "^4.0.4",
     "humanize-ms": "1.0.1",
