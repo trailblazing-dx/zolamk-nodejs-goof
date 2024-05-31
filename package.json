@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "cors": "^2.8.5",
     "dottie": "^2.0.2",
     "download": "^8.0.0",
     "errorhandler": "^1.5.1",
