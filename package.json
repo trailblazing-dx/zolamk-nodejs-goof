@@ -15,7 +15,6 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "adm-zip": "0.4.7",
     "ejs": "1.0.0",
     "ejs-locals": "1.0.2",
     "errorhandler": "1.2.0",
